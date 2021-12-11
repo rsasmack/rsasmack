@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m passionate about DATA in general driven to gather insights & help businesses grow and in some way make people's life easier and better.
 - 🌱 On a learning curve with different tools and technologies concerning DATA SCIENCE, MACHINE LEARNING/AI
-- 💞️ I’m looking forward to experience different perception/challenges through which DATA invigorates our idea to help customers around the world to make world a better place...
+- 💞️ I’m looking forward to experience different perception/challenges through which DATA invigorates our idea to help customers around the world and to make world a better place...
 - 📫 You can reach me at https://www.linkedin.com/in/avinashrs/
 
 <!---
