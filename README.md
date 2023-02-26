@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash
 - 👀 Passionate about AI and driven to help businesses grow and contribute to society through the fusion of data and technology.
-- 🌱 On a learning curve with different tools and technologies encompassing MACHINE LEARNING and AI
+- 🌱 On a learning curve with different tools and technologies encompassing **Machine Learning** and **AI**
 - 💞️  I’m looking forward to experiencing different perspectives/challenges through which **data** and **technology** interpose each other and invigorate an idea to help people around the world and to make the world a better place...
 - 📫 You can reach me at https://www.linkedin.com/in/avinashrs/
 
