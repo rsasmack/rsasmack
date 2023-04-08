@@ -2,7 +2,7 @@
 🔭 I'm an AI & ML enthusiast currently working on end-to-end projects in NLP, Computer Vision, and various ML domains<br>👯 I'm open to collaboration on projects involving NLP, Computer Vision, or ML models<br>📫 Reach me at: aeroapj@gmail.com
 
 
-## 🌐 Networking & Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/avinashrs) 
 
 ## 💻 Tech Toolbox:
