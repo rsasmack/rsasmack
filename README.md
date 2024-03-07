@@ -1,5 +1,5 @@
 ## 💫 Overview:
-🔭 I'm an AI & ML enthusiast currently working on end-to-end projects in NLP, Computer Vision, and various ML domains<br>👯 I'm open to collaboration on projects involving NLP, Computer Vision, or ML models<br> Passionate about continuous learning & staying up-to-date with the latest advancements in AI, machine learning, and data science.<br> Exploring the intersection of data and tech<br> 📫 Reach me at: aeroapj@gmail.com
+🔭 I'm an AI & ML enthusiast currently working on end-to-end projects in NLP, Computer Vision, and various ML domains<br>👯 I'm open to collaboration on projects involving NLP, Computer Vision, or ML models<br>🔍 Data & Tech Explorer: Fascinated by the intersection of data and tech, I thrive on exploring how AI can unlock new insights and opportunities, aiming to create impactful solutions that resonate across industries.<br>🚀 Lifelong Learner: Committed to continuous growth, I immerse myself in the latest AI, machine learning, and data science advancements, ensuring my projects like the climate forecasting model and text analytics remain at the cutting edge.<br>📫 Reach me at: aeroapj@gmail.com
 
 
 ## 🌐 Socials:
